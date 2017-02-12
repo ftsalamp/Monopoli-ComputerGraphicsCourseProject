@@ -1,0 +1,48 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 540M (ID=0xdf4)
+    Vendor:   NVIDIA
+    VRAM:     972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Users\user\Documents\Boardgame\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Users\user\Documents\Boardgame\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Users\user\Documents\Boardgame\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Users\user\Documents\Boardgame\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Users\user\Documents\Boardgame\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Users\user\Documents\Boardgame\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 2646x1024 at -1280,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.891621 ms
+Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 103c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.638273 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.322010 ms (FindLiveObjects: 0.031645 ms CreateObjectMapping: 0.027796 ms MarkObjects: 0.204410 ms  DeleteObjects: 0.048750 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 15d0 -> priority: 1 
+  Thread -> id: 1794 -> priority: 1 
+  Thread -> id: 1094 -> priority: 1 
+  Thread -> id: 938 -> priority: 1 
